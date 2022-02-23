@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm tolson</h1>
+<h1 align="center">Hi! I'm tolson</h1>
 <p align="center">
 <p align="center"><img src="https://tolson.io/assets/neature.jpg"/></p>
 <p align="center">
@@ -24,6 +24,6 @@ Curated projects from my github:
 
 ### Personal site
 
-I have a blog with technical writing and my resume at <img src="https://tolson.io/assets/favicon.png">[tolson.io](https://tolson.io)
+I have a blog with technical writing, and my resume at <img src="https://tolson.io/assets/favicon.png">&nbsp;[tolson.io](https://tolson.io)
 
 ---
