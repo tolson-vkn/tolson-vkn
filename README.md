@@ -6,9 +6,9 @@
 
 ### About me
 
-I am a Site Reliability Enginer with a focus on platform infrastructure.
+I am a Site Reliability Engineer with a focus on platform infrastructure.
 
-- 🐧 I'm a full time Linux user and have been since 2007. I even have a Linux smartphone 🤦
+- I'm a full time Linux 🐧 user and have been since 2007. I even have a Linux smartphone 🤦
 - I'm actively invovled in my local [Linux user group](https://www.meetup.com/PenguinsUnbound/).
 - Outside of tech; I enjoy skiing, hiking, and woodworking.
 
