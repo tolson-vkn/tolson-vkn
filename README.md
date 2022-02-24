@@ -4,8 +4,6 @@
 <p align="center"><img src="https://tolson.io/assets/neature.jpg"/></p>
 <p align="center">
 
-### About me
-
 I am a Site Reliability Engineer with a focus on platform infrastructure.
 
 - I'm a full time Linux 🐧 user and have been since 2007. I even have a Linux smartphone 🤦
