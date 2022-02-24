@@ -7,7 +7,7 @@
 I am a Site Reliability Engineer with a focus on platform infrastructure.
 
 - I'm a full time Linux 🐧 user and have been since 2007. I even have a Linux smartphone 🤦 
-- I primarly write Go and Python, but enjoy diving into other languages and am learning Rust
+- I primarily write Go and Python, but enjoy diving into other languages and am learning Rust
 - My first kube infra was in 2017 (version 1.9)
 - I'm actively invovled in my local [Linux user group](https://www.meetup.com/PenguinsUnbound/).
 - Outside of tech; I enjoy skiing, camping, hiking, and woodworking
